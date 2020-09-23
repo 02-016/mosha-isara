@@ -51,6 +51,7 @@ header .container {
   top: -10px;
 }
 .pc_headerContact {
+  text-decoration: none;
   float: right;
   font-size: 14px;
   color: white;
@@ -141,6 +142,8 @@ letter-spacing: 0.1em;
 }
 
 .section2-btn {
+  text-decoration: none;
+  color: white;
   font-size: 18px;
   font-weight: 600;
   background-color: #d96b63;
