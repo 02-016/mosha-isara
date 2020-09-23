@@ -154,6 +154,8 @@ letter-spacing: 0.1em;
   }
 
   .section2-btn {
+    text-decoration: none;
+    color: white;
     font-size: 20px;
     font-weight: 600;
     background-color: #d96b63;
